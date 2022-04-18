@@ -7,7 +7,7 @@ I’m a Software Engineer. Currently I'm working as a Web and Mobile Educator an
 🌎 Front-end Web with React  
 📡 Back-end with Node.js  
 🛠️ Typescript  
-📦 I use relational and noSQL databases
+📦 I use relational and noSQL databases  
 🧰 and more...  
 
 #### 💬 Find me elsewhere
