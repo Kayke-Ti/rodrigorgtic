@@ -2,12 +2,12 @@
 
 I’m a Software Engineer. Currently I'm working as a Web and Mobile Educator and Content Producer at [**Rocketseat**](https://github.com/rocketseat-education). 🚀
 
-#### 🧰 My current tools 
+#### My current tools 
 -  📱 Mobile with React Native
 -  🌎 Web with React
 -  📡 API with Node.js 
 -  🛠️ Typescript
--  📦 and more...
+-  🧰 and more...
 
 #### 💬 Find me elsewhere
 
