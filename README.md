@@ -2,6 +2,8 @@
 
 I’m a Software Engineer. Currently I'm working as a Web and Mobile Educator and Content Producer at [**Rocketseat**](https://github.com/rocketseat-education). 🚀
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=blue" alt="Profile views" /> </p>
+
 #### My current tools 
 📲 Front-end Mobile with React Native  
 🌎 Front-end Web with React  
@@ -13,3 +15,5 @@ I’m a Software Engineer. Currently I'm working as a Web and Mobile Educator an
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-goncalves-santana/)](https://www.linkedin.com/in/rodrigo-goncalves-santana/) 
 [![Gmail Badge](https://img.shields.io/badge/-rodrigorgtic@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodrigorgtic@gmail.com)](mailto:fhugoduarte@gmail.com)
+
+
