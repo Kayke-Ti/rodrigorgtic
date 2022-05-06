@@ -9,6 +9,11 @@ I’m a Software Engineer. Currently I'm working as a Web and Mobile Educator an
 🛠️ Typescript  
 🧰 And more...  
 
+
+Are you a React Native developer? How about **using my extension** to building components quickly?
+
+[![R Component Extension](https://img.shields.io/visual-studio-marketplace/v/rodrigorgtic.rcomponent.svg?label=Visual%20Studio%20Marketplace&color=8257E6&labelColor=0A1033)](https://marketplace.visualstudio.com/items?itemName=rodrigorgtic.rcomponent)
+
 #### 💬 Find me elsewhere
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-goncalves-santana/)](https://www.linkedin.com/in/rodrigo-goncalves-santana/) 
