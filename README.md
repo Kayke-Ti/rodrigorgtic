@@ -4,8 +4,8 @@ I’m a Software Engineer. Currently I'm working as a Web and Mobile Educator an
 
 #### My current tools 
 📲 Front-end Mobile with React Native  
-🌎 Front-end Web with React  
-📡 Back-end with Node.js  
+🌎 Front-end Web with Reactjs  
+📡 Back-end with Nodejs  
 🛠️ Typescript  
 🧰 And more...  
 
