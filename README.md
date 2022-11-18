@@ -18,5 +18,5 @@ Are you a React Native developer? How about **using my extension** in your VSCod
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-goncalves-santana/)](https://www.linkedin.com/in/rodrigo-goncalves-santana/) 
 [![Gmail Badge](https://img.shields.io/badge/-rodrigorgtic@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodrigorgtic@gmail.com)](mailto:rodrigorgtic@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=[https://www.linkedin.com/in/rodrigo-goncalves-santana/](https://www.instagram.com/rodrigo.goncalves.s/))]([https://www.linkedin.com/in/rodrigo-goncalves-santana/](https://www.instagram.com/rodrigo.goncalves.s/)) 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.linkedin.com/in/rodrigo-goncalves-santana/)](https://www.instagram.com/rodrigo.goncalves.s/)
 
